@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KhodeeArshiaa
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Marex
+- 🌱 I’m currently learning Everything
 - 📫 How to reach me ...
 
 
